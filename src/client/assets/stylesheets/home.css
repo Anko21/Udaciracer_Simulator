@@ -1,0 +1,35 @@
+/* HOME PAGE SPECIFIC STYLES */
+
+.container{
+    display: flex;
+    height: 100vh;
+}
+.homeHeader{
+    height: 60%;
+}
+main{
+    height: 35%;
+}
+footer{
+    height: 5%;
+    width:100%;
+    color:#ffff;
+    padding:0.5em 0 0 1em;
+}
+/* -------------------  MOBILE  --------------------- */
+
+
+/* -------------------  TABLET  --------------------- */
+@media (min-width: 768px) {
+
+}
+
+/* -------------------  DESKTOP  -------------------- */
+
+@media (min-width: 1224px) {
+}
+
+/* -------------------  LARGE SCREENS  -------------- */
+
+@media (min-width: 1824px) {
+}
