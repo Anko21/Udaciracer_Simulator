@@ -14,6 +14,13 @@ The game has three main views:
 
 3. The race results view
 
+![1](https://github.com/Anko21/Udaciracer_Simulator/assets/117990932/a4c42679-756b-47b3-9cbc-8c0fb7b4af08)
+![2](https://github.com/Anko21/Udaciracer_Simulator/assets/117990932/75b2ab72-c7dc-45be-a3e5-9279a2d83dde)
+![3](https://github.com/Anko21/Udaciracer_Simulator/assets/117990932/5771153b-e6e2-48c5-9565-1d8596484883)
+![4](https://github.com/Anko21/Udaciracer_Simulator/assets/117990932/64fcfffb-5803-4d44-b854-dbfea7e7ec02)
+
+
+
 ## Starter Code
 
 We have supplied you with the following:
